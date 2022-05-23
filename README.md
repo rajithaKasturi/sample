@@ -1,2 +1,2 @@
 # sample
-smaple to tes
+sample play to test
